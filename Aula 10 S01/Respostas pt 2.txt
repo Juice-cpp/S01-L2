@@ -1,0 +1,7 @@
+1) movie(X, 2006).
+
+2) movie(X, Y), Y < 2002.
+
+3) movie(X, Y), (Y = 2000; Y = 2006).
+
+4) movie(the_godfather_part_iii, X), X \= 1990.
